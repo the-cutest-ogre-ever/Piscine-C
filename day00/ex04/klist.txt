@@ -1,0 +1,7 @@
+Credentials cache: API:6ED44658-9E04-4CF4-A8C8-4D7930164D65
+        Principal: ijose@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  2 13:42:45 2020  Mar  2 23:42:45 2020  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
+Mar  2 13:42:47 2020  Mar  2 23:42:45 2020  HTTP/student-storage.kzn.21-school.ru@KZN.21-SCHOOL.RU
+Mar  2 14:28:54 2020  Mar  2 23:42:45 2020  host/vogsphere.kzn.21-school.ru@KZN.21-SCHOOL.RU
